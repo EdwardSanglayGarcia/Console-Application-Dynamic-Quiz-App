@@ -1,0 +1,30 @@
+C:\Users\Edward\Documents\Repositories\ShopZada\ShopZada\CodingExam\bin\Debug\net6.0\CodingExam.exe
+C:\Users\Edward\Documents\Repositories\ShopZada\ShopZada\CodingExam\bin\Debug\net6.0\CodingExam.deps.json
+C:\Users\Edward\Documents\Repositories\ShopZada\ShopZada\CodingExam\bin\Debug\net6.0\CodingExam.runtimeconfig.json
+C:\Users\Edward\Documents\Repositories\ShopZada\ShopZada\CodingExam\bin\Debug\net6.0\CodingExam.dll
+C:\Users\Edward\Documents\Repositories\ShopZada\ShopZada\CodingExam\bin\Debug\net6.0\CodingExam.pdb
+C:\Users\Edward\Documents\Repositories\ShopZada\ShopZada\CodingExam\obj\Debug\net6.0\CodingExam.csproj.AssemblyReference.cache
+C:\Users\Edward\Documents\Repositories\ShopZada\ShopZada\CodingExam\obj\Debug\net6.0\CodingExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edward\Documents\Repositories\ShopZada\ShopZada\CodingExam\obj\Debug\net6.0\CodingExam.AssemblyInfoInputs.cache
+C:\Users\Edward\Documents\Repositories\ShopZada\ShopZada\CodingExam\obj\Debug\net6.0\CodingExam.AssemblyInfo.cs
+C:\Users\Edward\Documents\Repositories\ShopZada\ShopZada\CodingExam\obj\Debug\net6.0\CodingExam.csproj.CoreCompileInputs.cache
+C:\Users\Edward\Documents\Repositories\ShopZada\ShopZada\CodingExam\obj\Debug\net6.0\CodingExam.dll
+C:\Users\Edward\Documents\Repositories\ShopZada\ShopZada\CodingExam\obj\Debug\net6.0\refint\CodingExam.dll
+C:\Users\Edward\Documents\Repositories\ShopZada\ShopZada\CodingExam\obj\Debug\net6.0\CodingExam.pdb
+C:\Users\Edward\Documents\Repositories\ShopZada\ShopZada\CodingExam\obj\Debug\net6.0\CodingExam.genruntimeconfig.cache
+C:\Users\Edward\Documents\Repositories\ShopZada\ShopZada\CodingExam\obj\Debug\net6.0\ref\CodingExam.dll
+C:\Users\Edward\Desktop\Edward Garcia H2 Application\CodingExam\bin\Debug\net6.0\CodingExam.exe
+C:\Users\Edward\Desktop\Edward Garcia H2 Application\CodingExam\bin\Debug\net6.0\CodingExam.deps.json
+C:\Users\Edward\Desktop\Edward Garcia H2 Application\CodingExam\bin\Debug\net6.0\CodingExam.runtimeconfig.json
+C:\Users\Edward\Desktop\Edward Garcia H2 Application\CodingExam\bin\Debug\net6.0\CodingExam.dll
+C:\Users\Edward\Desktop\Edward Garcia H2 Application\CodingExam\bin\Debug\net6.0\CodingExam.pdb
+C:\Users\Edward\Desktop\Edward Garcia H2 Application\CodingExam\obj\Debug\net6.0\CodingExam.csproj.AssemblyReference.cache
+C:\Users\Edward\Desktop\Edward Garcia H2 Application\CodingExam\obj\Debug\net6.0\CodingExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edward\Desktop\Edward Garcia H2 Application\CodingExam\obj\Debug\net6.0\CodingExam.AssemblyInfoInputs.cache
+C:\Users\Edward\Desktop\Edward Garcia H2 Application\CodingExam\obj\Debug\net6.0\CodingExam.AssemblyInfo.cs
+C:\Users\Edward\Desktop\Edward Garcia H2 Application\CodingExam\obj\Debug\net6.0\CodingExam.csproj.CoreCompileInputs.cache
+C:\Users\Edward\Desktop\Edward Garcia H2 Application\CodingExam\obj\Debug\net6.0\CodingExam.dll
+C:\Users\Edward\Desktop\Edward Garcia H2 Application\CodingExam\obj\Debug\net6.0\refint\CodingExam.dll
+C:\Users\Edward\Desktop\Edward Garcia H2 Application\CodingExam\obj\Debug\net6.0\CodingExam.pdb
+C:\Users\Edward\Desktop\Edward Garcia H2 Application\CodingExam\obj\Debug\net6.0\CodingExam.genruntimeconfig.cache
+C:\Users\Edward\Desktop\Edward Garcia H2 Application\CodingExam\obj\Debug\net6.0\ref\CodingExam.dll
